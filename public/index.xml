@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First Aid Game</title>
+    <link>http://first-aid-game.e-ucm.es/</link>
+    <description>Recent content on First Aid Game</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Sep 2020 16:20:20 +0200</lastBuildDate>
+    
+	<atom:link href="http://first-aid-game.e-ucm.es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>http://first-aid-game.e-ucm.es/research/</link>
+      <pubDate>Mon, 14 Sep 2020 12:53:24 +0200</pubDate>
+      
+      <guid>http://first-aid-game.e-ucm.es/research/</guid>
+      <description>The first-aid game was created to teach high school students how to perform basic first-aid and resuscitation procedures including, when available, the use of a portable defibrillator as the ones being deployed in most public spaces across Spain.
+The game was commissioned by the CATEDU, to study its potential deployment alongside the ongoing effort to organize sessions in different high schools where a medical professional visits the school to arrange a tutorial.</description>
+    </item>
+    
+  </channel>
+</rss>

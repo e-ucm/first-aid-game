@@ -1,0 +1,52 @@
+baseURL = "http://first-aid-game.e-ucm.es/"
+languageCode = "en-us"
+title = "First Aid Game"
+#theme used for the site
+theme="hugo-theme-learn"
+metaDataFormat = "yaml"
+
+[params]
+  # Author of the site, will be used in meta information
+  author = "e-ucm"
+  # Description of the site, will be used in meta information
+  description = ""
+  # Shows a checkmark for visited pages on the menu
+  showVisitedLinks = false
+  # Disable search function. It will hide search bar
+  disableSearch = false
+  # Set this to true to disable copy-to-clipboard button for inline code.
+  disableInlineCopyToClipBoard = false
+  # A title for shortcuts in menu is set by default. Set this to true to disable it.
+  disableShortcutsTitle = false
+  # When using mulitlingual website, disable the switch language button.
+  disableLanguageSwitchingButton = false
+  # Hide Next and Previous page buttons normally displayed full height beside content
+  disableNextPrev =false
+  # Order sections in menu by "weight" or "title". Default to "weight"
+  ordersectionsby = "weight"
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "blue"
+  # Provide a list of custom css files to load relative from the `static/` folder in the site root.
+  custom_css = ["css/foo.css", "css/bar.css"]
+  # Change the title separator. Default to "::".
+  titleSeparator = "-"
+ 
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.en]
+title = "First Aid Game"
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> Game GitHub repository"
+identifier = "ds"
+url = "https://github.com/e-ucm/first-aid-game"
+weight = 10
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Research"
+url = "/research"
+weight = 30
