@@ -1,4 +1,4 @@
-baseURL = "http://first-aid-game.e-ucm.es/"
+baseURL = "https://e-ucm.e-ucm.es/first-aid-game"
 languageCode = "en-us"
 title = "First Aid Game"
 #theme used for the site
