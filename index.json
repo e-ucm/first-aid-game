@@ -1,0 +1,50 @@
+[
+{
+	"uri": "https://e-ucm.github.io/first-aid-game/downloadgame/",
+	"title": "Download game",
+	"tags": [],
+	"description": "",
+	"content": "Download Game The game is available in different formats and for different platforms. Please choose your download:\n Windows (XP/Vista/Win7) [Download binary (coming soon)] [Download java package (coming soon)] Linux [Download java package (coming soon)] OSX [Download App (coming soon)] [Download java package (coming soon)] Generic Java version (multiplatform) [Download Jar file]  Also, you can download the source package, which can be opened and edited with e-Adventure editor.\n All platforms [Download source package]  The game is also available in different languages:\n French version: Premier Secours, available for Windows (XP/Vista/Win7) [Download][sources package]  "
+},
+{
+	"uri": "https://e-ucm.github.io/first-aid-game/playonline/",
+	"title": "Play Online",
+	"tags": [],
+	"description": "",
+	"content": "Play Online WARNING: The online version of the game is an experimental feature, and its proper functioning may depend on the specific platform, browser, or Java version.\nIf you experience any problems, please download the full version of the game from the downloads page.\nKnown bugs from the online version:\nIt may not run in OSX computers running Safari (depending on the Java version). OSX 10.6 and OSX 10.7 users will need to manually enable the execution of Java Applets. Videos may not be resized properly. Should you experience any other issues, please use the feedback form to let us know.\n Play button  (the game will open in a new window)\n"
+},
+{
+	"uri": "https://e-ucm.github.io/first-aid-game/feedback/",
+	"title": "FeedBack",
+	"tags": [],
+	"description": "",
+	"content": "FeedBack Your feedback is important for us. If you experience any technical errors, if you have any questions, suggestions or complains, please do let us know using the following form. We read all feedback and will respond promptly (if you want to leave your email address). Your contact data and comments will never be used for any means other than contacting you back.\n"
+},
+{
+	"uri": "https://e-ucm.github.io/first-aid-game/",
+	"title": "First Aid Game",
+	"tags": [],
+	"description": "",
+	"content": "Teaching first-aid procedures to high school students The First-Aid game was commissioned by the Aragonese Center for Educational Technologies (CATEDU), as a tool to teach high school students basic first-aid and reanimation procedures.\nIt was developed by the e-UCM Research Group using e-Adventure, an authoring platform for the creation of educational games. It is distributed under a Creative Commons license (by-nc-sa).\nThis site hosts the English version of the game, with a special focus on TEL research applications. For Spanish documentation and to download the original game currently being used by CATEDU in Aragonese high schools, visit the CATEDU website section on educational games.\nMain reference:\nMarchiori EJ, Ferrer G, Fernández-Manjón B, Povar Marco J, Suberviola González JF, Giménez Valverde A. Video-game instruction in basic life support maneuvers. Emergencias. 2012;24:433-7. (download PDF)\n"
+},
+{
+	"uri": "https://e-ucm.github.io/first-aid-game/research/",
+	"title": "Research",
+	"tags": [],
+	"description": "",
+	"content": "The first-aid game was created to teach high school students how to perform basic first-aid and resuscitation procedures including, when available, the use of a portable defibrillator as the ones being deployed in most public spaces across Spain.\nThe game was commissioned by the CATEDU, to study its potential deployment alongside the ongoing effort to organize sessions in different high schools where a medical professional visits the school to arrange a tutorial.\nA test pilot has been conducted with over 300 students from 4 different high schools (two urban schools and two rural schools), with a statistically significant improvement in an experiment with a pre-test and a post-test.\nThe full details of the experiment have been published in the Journal of the Spanish Society of Emergency Medicine (SEMES).\nMarchiori EJ, Ferrer G, Fernández-Manjón B, Povar Marco J, Suberviola González JF, Giménez Valverde A. Video-game instruction in basic life support maneuvers. Emergencias. 2012;24:433-7. (download PDF)\nArticle details Citation Eugenio J Marchiori, Gaspar Ferrer, Baltasar Fernández-Manjón, Javier Povar-Marco, José Fermín Suberviola, Antonio Giménez-Valverde. Education in basic life support maneuvers using video games. Emergencias, 2012; 24: 433-437. (download PDF)\nin Spanish: Marchiori EJ, Ferrer G, Fernández-Manjón B, Povar Marco J, Fermín Suberviola J, Giménez Valverde A. Instrucción en maniobras de soporte vital básico mediante videojuegos a escolares: comparación de resultados frente a un grupo control. Emergencias. 2012;24:433-7. (download PDF)\nAbstract Objectives: 1) To assess the usefulness of an educational video game to teach the theory of basic life support to high school students; 2) to compare video game instruction to the traditional teaching of basic life support maneuvers through practical demonstrations by healthcare professionals.\nMethods: An educational video game was developed according to the ILCOR 2010 guidelines. The study was carried out in a sample of 344 secondary school students in Aragon, Spain. The students, who were allocated to an experimental group and a control group, took a test before and after instruction in order to detect change in knowledge.\nResults: Viable data were obtained for 331 students. The 187 students in the experimental group had a mean grade of 4.51 (out of a maximum score of 10) before playing the game, and a mean grade of 7.48 afterwards. Students in the control group had a mean grade of 4.95 before and 8.56 afterwards. The differences in each group were significant (t test). After bivariate analysis of variance, the differences in both groups remained significant.\nConclusions: The experimental group achieved a significant increase in theoretical knowledge, although they learned less than students in the control group. The relevance of these results rests on the lower cost per instructional session for the video game, which can be played an unlimited number of times without supervision, as opposed to the high cost of providing visits of healthcare professionals to all high schools. [Emergencias 2012; 24: 433-437]\nFull text\nFor a free PDF copy of the article, go to the EMERGENCIAS medical journal (in Spanish) (in English)\nor please contact Prof. Fernández-Manjón (balta@fdi.ucm.es)\nSome Screenshots\n"
+},
+{
+	"uri": "https://e-ucm.github.io/first-aid-game/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://e-ucm.github.io/first-aid-game/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
