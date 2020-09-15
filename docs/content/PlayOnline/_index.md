@@ -19,5 +19,5 @@ OSX 10.6 and OSX 10.7 users will need to manually enable the execution of Java A
 Videos may not be resized properly.
 Should you experience any other issues, please use the feedback form to let us know.
 
-{{% button href="http://www.google.com/url?q=http%3A%2F%2Fwww.e-ucm.es%2FfirstAidGame%2Fplay.html&sa=D&sntz=1&usg=AFQjCNErWwiOXhF6DiFBwP1W4fuL2Ouhqw" %}}Play button{{% /button %}}
+{{% button href="http://www.e-ucm.es/firstAidGame/play.htm" %}}Play button{{% /button %}}
 (the game will open in a new window)

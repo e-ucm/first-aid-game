@@ -16,11 +16,11 @@ Marchiori EJ, Ferrer G, Fernández-Manjón B, Povar Marco J, Suberviola Gonzále
 ## Article details
 ### Citation
 
-Eugenio J Marchiori, Gaspar Ferrer, Baltasar Fernández-Manjón, Javier Povar-Marco, José Fermín Suberviola, Antonio Giménez-Valverde. Education in basic life support maneuvers using video games. Emergencias, 2012; 24: 433-437. ([download PDF](http://www.google.com/url?q=http%3A%2F%2Fwww.semes.org%2Frevista_EMERGENCIAS%2Fdescargar%2Fvideo-game-instruction-in-basic-life-support-maneuvers%2Fforce_download%2Fenglish%2F&sa=D&sntz=1&usg=AFQjCNGbaM54oc4pBx7ICWWkSXEGlYgOtQ))
+Eugenio J Marchiori, Gaspar Ferrer, Baltasar Fernández-Manjón, Javier Povar-Marco, José Fermín Suberviola, Antonio Giménez-Valverde. Education in basic life support maneuvers using video games. Emergencias, 2012; 24: 433-437. ([download PDF](http://www.semes.org/revista_EMERGENCIAS/descargar/video-game-instruction-in-basic-life-support-maneuvers/force_download/english/))
 
 ### in Spanish: 
 
-Marchiori EJ, Ferrer G, Fernández-Manjón B, Povar Marco J, Fermín Suberviola J, Giménez Valverde A. Instrucción en maniobras de soporte vital básico mediante videojuegos a escolares: comparación de resultados frente a un grupo control. Emergencias. 2012;24:433-7. ([download PDF](http://www.google.com/url?q=http%3A%2F%2Fwww.semes.org%2Frevista%2Fvol24_6%2F4.pdf&sa=D&sntz=1&usg=AFQjCNHDsE7oTMusNzmNDlcd3unyG4ES3A))
+Marchiori EJ, Ferrer G, Fernández-Manjón B, Povar Marco J, Fermín Suberviola J, Giménez Valverde A. Instrucción en maniobras de soporte vital básico mediante videojuegos a escolares: comparación de resultados frente a un grupo control. Emergencias. 2012;24:433-7. ([download PDF](http://www.semes.org/revista/vol24_6/4.pdf))
 
 ### Abstract
 
@@ -41,6 +41,6 @@ For a free PDF copy of the article, go to the EMERGENCIAS medical journal ([in S
 
 Some Screenshots
 
-![Screenshots](https://lh5.googleusercontent.com/Yo9GP9CFz--qyjvmblq2Efn1y_0_xUQdsyZYXVNQGoc1rykzsvCKkr7CuwWd4nQ8JwVJmJLBZxnagvXx9o36fh6Wg8zJEoXBwi2tV8esUtXCrj3heA=w1280)
-![Screenshots](https://lh3.googleusercontent.com/pumOnOkkUuMg9GRg1DUpf6eyja2hHK_BivIzRSskx7WNWVccjYFQjMUNi59Pk4_LlXHidFJaVmFMT2Cf_cGo2cvNMTLsi8Sm31G8iGxNx2s5CZRZsty4=w1280)
-![Screenshots](https://lh4.googleusercontent.com/2kVPXUYjagJUpEjx9iZZCOGZL5dPYM5IuyHnoYdlPHiIDN6DmjtC8zq04jjJWDCt09uQ-poT0ptuqoHprJrU4nlJVGG5zr6c8xA54aO9HhWFur0IpA=w1280)
+![Screenshots](screenshot2.jpg)
+![Screenshots](screenshot3.jpg)
+![Screenshots](screenshot4.jpg)
